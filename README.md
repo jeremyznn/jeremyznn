@@ -165,19 +165,6 @@ const jeremy = {
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=jeremyznn&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&text_color=CBD5E1&icon_color=10B981&ring_color=10B981&locale=fr&rank_icon=github&include_all_commits=true&custom_title=Activite%20GitHub"
-    alt="Activité GitHub"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyznn&layout=compact&theme=transparent&hide_border=true&title_color=10B981&text_color=CBD5E1&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css&custom_title=Langages%20utilises"
-    alt="Langages utilisés"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=jeremyznn&theme=transparent&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
     alt="Streak GitHub"
   />
