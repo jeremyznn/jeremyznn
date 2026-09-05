@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="846" height="330" viewBox="0 0 846 330" role="img" aria-label="Jérémy — Full-Stack Engineer at SKOLEOM PLATFORM INC.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7F8FC"/><stop offset="1" stop-color="#ECEAF8"/></linearGradient>
+    <radialGradient id="glowV"><stop offset="0" stop-color="#6D4DE0" stop-opacity=".34"/><stop offset="1" stop-color="#6D4DE0" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowC"><stop offset="0" stop-color="#0891B2" stop-opacity=".22"/><stop offset="1" stop-color="#0891B2" stop-opacity="0"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity=".18"/></filter>
+    <style>
+      text { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .mono { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace; }
+      .dash { animation: dash 9s linear infinite; }
+      .dash2 { animation: dash 14s linear infinite reverse; }
+      .pulse { animation: pulse 2.8s ease-in-out infinite; transform-origin: 667px 158px; }
+      .float1 { animation: f1 4.8s ease-in-out infinite; } .float2 { animation: f2 5.4s ease-in-out infinite; } .float3 { animation: f3 6.1s ease-in-out infinite; }
+      .scan { animation: scan 5s ease-in-out infinite; }
+      @keyframes dash { to { stroke-dashoffset: -120; } }
+      @keyframes pulse { 0%,100% { transform:scale(.96); opacity:.75 } 50% { transform:scale(1.07); opacity:1 } }
+      @keyframes f1 { 0%,100% { transform:translateY(0) } 50% { transform:translateY(-7px) } }
+      @keyframes f2 { 0%,100% { transform:translateY(-2px) } 50% { transform:translateY(6px) } }
+      @keyframes f3 { 0%,100% { transform:translateY(3px) } 50% { transform:translateY(-5px) } }
+      @keyframes scan { 0%,100% { opacity:0; transform:translateY(-30px) } 45%,55% { opacity:.42 } 50% { transform:translateY(300px) } }
+      @media (prefers-reduced-motion: reduce) { .dash,.dash2,.pulse,.float1,.float2,.float3,.scan { animation:none !important; } }
+    </style>
+  </defs>
+  <rect width="846" height="330" rx="24" fill="url(#bg)"/>
+  <ellipse cx="710" cy="82" rx="260" ry="210" fill="url(#glowV)" filter="url(#blur)"/>
+  <ellipse cx="620" cy="260" rx="220" ry="150" fill="url(#glowC)" filter="url(#blur)"/>
+  <g opacity=".30" stroke="#948CC3" stroke-width="1"><path d="M420 230H826M392 250H826M368 272H826M346 296H826"/><path d="M588 214L476 330M632 214L570 330M676 214L664 330M720 214L758 330M764 214L846 322"/></g>
+  <rect class="scan" x="0" y="0" width="846" height="1.5" fill="#0891B2"/>
+  <g transform="translate(42 36)">
+    <rect x="0" y="0" width="225" height="28" rx="14" fill="#FFFFFF" stroke="#6D4DE0" stroke-opacity=".45"/>
+    <circle cx="16" cy="14" r="4.3" fill="#0891B2"><animate attributeName="opacity" values=".45;1;.45" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="29" y="18" fill="#62677B" font-size="10.5" class="mono" letter-spacing=".8">PROFILE SYSTEM // ONLINE</text>
+    <text x="0" y="91" fill="#171821" font-size="48" font-weight="800" letter-spacing="-1.8">JÉRÉMY</text>
+    <text x="2" y="126" fill="#6D4DE0" font-size="15" font-weight="800" letter-spacing="2.2">FULL‑STACK ENGINEER</text>
+    <text x="0" y="165" fill="#171821" font-size="16" font-weight="700">SKOLEOM PLATFORM INC.</text>
+    <text x="0" y="188" fill="#62677B" font-size="13">Product Engineering · Cloud · Mobile · AI</text>
+    <line x1="0" y1="214" x2="316" y2="214" stroke="#D8DAE8"/>
+    <text x="0" y="239" fill="#62677B" font-size="10.5" class="mono">PARIS / FRANCE</text>
+    <text x="0" y="258" fill="#62677B" font-size="10.5" class="mono">BUILD 2026.09.05</text>
+  </g>
+  <g>
+    <ellipse cx="667" cy="158" rx="146" ry="66" fill="none" stroke="#6D4DE0" stroke-opacity=".38" stroke-dasharray="4 8" class="dash"/>
+    <ellipse cx="667" cy="158" rx="180" ry="88" fill="none" stroke="#0891B2" stroke-opacity=".22" stroke-dasharray="2 12" class="dash2"/>
+    <ellipse cx="667" cy="158" rx="108" ry="47" fill="none" stroke="#171821" stroke-opacity=".10"/>
+    <g class="pulse"><circle cx="667" cy="158" r="42" fill="#FFFFFF" stroke="#0891B2" stroke-opacity=".68" stroke-width="1.5"/><circle cx="667" cy="158" r="31" fill="none" stroke="#6D4DE0" stroke-opacity=".45" stroke-dasharray="3 6"/><text x="667" y="154" text-anchor="middle" fill="#171821" font-size="11" font-weight="800" letter-spacing="1.8">BUILD</text><text x="667" y="171" text-anchor="middle" fill="#62677B" font-size="8.5" class="mono">SHIP / SCALE</text></g>
+    <g class="float1"><g transform="translate(520 103)"><rect width="90" height="28" rx="14" fill="#FFFFFF" stroke="#6D4DE0" stroke-opacity=".5"/><text x="45" y="18" text-anchor="middle" fill="#171821" font-size="10" font-weight="700">NEXT.JS</text></g><g transform="translate(726 87)"><rect width="98" height="28" rx="14" fill="#FFFFFF" stroke="#0891B2" stroke-opacity=".5"/><text x="49" y="18" text-anchor="middle" fill="#171821" font-size="10" font-weight="700">TYPESCRIPT</text></g></g>
+    <g class="float2"><g transform="translate(493 175)"><rect width="86" height="28" rx="14" fill="#FFFFFF" stroke="#0891B2" stroke-opacity=".45"/><text x="43" y="18" text-anchor="middle" fill="#171821" font-size="10" font-weight="700">REACT</text></g><g transform="translate(761 173)"><rect width="72" height="28" rx="14" fill="#FFFFFF" stroke="#6D4DE0" stroke-opacity=".48"/><text x="36" y="18" text-anchor="middle" fill="#171821" font-size="10" font-weight="700">NODE</text></g></g>
+    <g class="float3"><g transform="translate(554 234)"><rect width="82" height="28" rx="14" fill="#FFFFFF" stroke="#6D4DE0" stroke-opacity=".48"/><text x="41" y="18" text-anchor="middle" fill="#171821" font-size="10" font-weight="700">FLUTTER</text></g><g transform="translate(681 246)"><rect width="68" height="28" rx="14" fill="#FFFFFF" stroke="#0891B2" stroke-opacity=".48"/><text x="34" y="18" text-anchor="middle" fill="#171821" font-size="10" font-weight="700">AWS</text></g></g>
+  </g>
+</svg>
