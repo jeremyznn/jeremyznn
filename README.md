@@ -25,115 +25,84 @@ Building production-grade digital products at **[SKOLEOM PLATFORM INC.](https://
 
 <br>
 
-## Engineering
-
-Je conçois des produits numériques de bout en bout : expérience utilisateur, composants front-end, logique métier, API, données, intégrations, mobile et infrastructure de production.
+## Stack
 
 ### Frontend & UI
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss,figma&theme=dark&perline=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss,figma&theme=light&perline=8">
-    <img src="https://skill-icons-v2.vercel.app/api/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss,figma&theme=dark&perline=8" height="32" alt="Frontend technologies">
-  </picture>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="34" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="34" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="34" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="34" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="34" alt="React" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="34" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="34" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="34" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/radixui/FFFFFF" height="34" alt="Radix UI" />
 </p>
-
-<p align="center"><sub>Radix UI · Base UI · Responsive Design · Accessibility · Design Systems · Performance</sub></p>
 
 ### Backend & Data
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=nodejs,prisma,mysql,mariadb,mongodb,api,swagger&theme=dark&perline=7">
-    <source media="(prefers-color-scheme: light)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=nodejs,prisma,mysql,mariadb,mongodb,api,swagger&theme=light&perline=7">
-    <img src="https://skill-icons-v2.vercel.app/api/icons?i=nodejs,prisma,mysql,mariadb,mongodb,api,swagger&theme=dark&perline=7" height="32" alt="Backend and data technologies">
-  </picture>
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="34" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/prisma/FFFFFF" height="34" alt="Prisma" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="34" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/mariadb/003545" height="34" alt="MariaDB" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="34" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/auth0/EB5424" height="34" alt="Authentication" />
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="34" alt="APIs" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" height="34" alt="JWT" />
 </p>
 
-<p align="center"><sub>REST APIs · Authentication · OAuth 2.0 · Webhooks · Business Logic · Prisma ORM</sub></p>
-
-### Mobile & Product Services
+### Mobile
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=flutter,firebase,apple&theme=dark&perline=3">
-    <source media="(prefers-color-scheme: light)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=flutter,firebase,apple&theme=light&perline=3">
-    <img src="https://skill-icons-v2.vercel.app/api/icons?i=flutter,firebase,apple&theme=dark&perline=3" height="32" alt="Mobile technologies">
-  </picture>
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="34" alt="Flutter" />
+  <img src="https://cdn.simpleicons.org/firebase/DD2C00" height="34" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/apple/FFFFFF" height="34" alt="Apple" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="34" alt="Android" />
+  <img src="https://cdn.simpleicons.org/googlewallet/4285F4" height="34" alt="Google Wallet" />
 </p>
 
-<p align="center"><sub>Push Notifications · Apple Wallet · Google Wallet · Android / iOS delivery</sub></p>
-
-### Cloud & Infrastructure
+### Cloud & DevOps
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=aws,docker,kubernetes,debian,linux,cloudflare,vercel,githubactions&theme=dark&perline=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=aws,docker,kubernetes,debian,linux,cloudflare,vercel,githubactions&theme=light&perline=8">
-    <img src="https://skill-icons-v2.vercel.app/api/icons?i=aws,docker,kubernetes,debian,linux,cloudflare,vercel,githubactions&theme=dark&perline=8" height="32" alt="Cloud and infrastructure technologies">
-  </picture>
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="34" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="34" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="34" alt="Kubernetes" />
+  <img src="https://cdn.simpleicons.org/k3s/FFC61C" height="34" alt="K3s" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="34" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="34" alt="Debian" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="34" alt="Cloudflare" />
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="34" alt="Vercel" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="34" alt="GitHub Actions" />
+  <img src="https://cdn.simpleicons.org/traefik/24A1C1" height="34" alt="Traefik" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="34" alt="Apache" />
 </p>
-
-<p align="center"><sub>AWS EC2 · S3 · RDS · Lambda · K3s · Docker Compose · Traefik · Apache · VPS Linux · CI/CD</sub></p>
 
 ### Tooling
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=git,github,npm,bash,vscode,postman&theme=dark&perline=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=git,github,npm,bash,vscode,postman&theme=light&perline=6">
-    <img src="https://skill-icons-v2.vercel.app/api/icons?i=git,github,npm,bash,vscode,postman&theme=dark&perline=6" height="32" alt="Development tooling">
-  </picture>
+  <img src="https://cdn.simpleicons.org/git/F05032" height="34" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="34" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="34" alt="npm" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="34" alt="Bash" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="34" alt="VS Code" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="34" alt="Postman" />
 </p>
-
-<p align="center"><sub>SSH · GitHub Actions · Automation · Monitoring · Production Operations</sub></p>
 
 ### Integrations & AI
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=stripe,discordjs,chatgpt,claude,gemini,huggingface&theme=dark&perline=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=stripe,discordjs,chatgpt,claude,gemini,huggingface&theme=light&perline=6">
-    <img src="https://skill-icons-v2.vercel.app/api/icons?i=stripe,discordjs,chatgpt,claude,gemini,huggingface&theme=dark&perline=6" height="32" alt="Integrations and AI technologies">
-  </picture>
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" height="34" alt="Stripe" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="34" alt="Discord" />
+  <img src="https://cdn.simpleicons.org/woocommerce/96588A" height="34" alt="WooCommerce" />
+  <img src="https://cdn.simpleicons.org/amazon/FF9900" height="34" alt="Amazon APIs" />
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="34" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/anthropic/D4A373" height="34" alt="Anthropic Claude" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="34" alt="Gemini" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="34" alt="Hugging Face" />
 </p>
-
-<p align="center"><sub>Stripe · Discord.js · Amazon APIs · WooCommerce · LLM APIs · Generative AI · Product Automation</sub></p>
-
-<details>
-<summary><strong>Full stack inventory</strong></summary>
-
-<br>
-
-**Frontend & UI**  
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Radix UI · Base UI · Responsive Design · Accessibility · Design Systems · UI/UX · Figma · Performance Optimization
-
-**Backend & APIs**  
-Node.js · Prisma · REST APIs · Authentication · OAuth 2.0 · Webhooks · Business Logic · External Integrations
-
-**Data**  
-MySQL · MariaDB · MongoDB · Prisma ORM
-
-**Mobile & Product Services**  
-Flutter · Firebase · Push Notifications · Apple Wallet · Google Wallet · Android · iOS
-
-**Cloud**  
-AWS EC2 · AWS S3 · AWS RDS · AWS Lambda · Cloudflare · Vercel
-
-**Infrastructure & DevOps**  
-Docker · Docker Compose · Kubernetes · K3s · Debian · Linux · VPS Administration · Traefik · Apache · GitHub Actions · CI/CD · Monitoring · SSH · Bash
-
-**Tooling**  
-Git · GitHub · npm · VS Code · Postman
-
-**Integrations**  
-Stripe · Discord.js · Amazon APIs · WooCommerce · Apple Wallet · Google Wallet · Firebase
-
-**AI**  
-LLM APIs · Generative AI · ChatGPT / OpenAI ecosystem · Claude · Gemini · Hugging Face · Product Automation
-
-</details>
 
 <br>
 
