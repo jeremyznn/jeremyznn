@@ -43,7 +43,7 @@ Je conçois des produits numériques de bout en bout : expérience utilisateur, 
     >
     <img
       src="https://skill-icons-v2.vercel.app/api/icons?i=javascript,typescript,react,nextjs,tailwindcss,nodejs,prisma,mysql,mongodb,flutter,firebase,aws,docker,kubernetes,linux,cloudflare,vercel,githubactions&theme=dark&perline=9"
-      width="100%"
+      width="68%"
       alt="Main technology stack"
     >
   </picture>
@@ -61,7 +61,7 @@ Je conçois des produits numériques de bout en bout : expérience utilisateur, 
     >
     <img
       src="https://skill-icons-v2.vercel.app/api/icons?i=git,github,npm,bash,vscode,postman,debian&theme=dark&perline=7"
-      width="72%"
+      width="48%"
       alt="Development tooling"
     >
   </picture>
