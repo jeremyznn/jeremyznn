@@ -29,6 +29,49 @@ Building production-grade digital products at **[SKOLEOM PLATFORM INC.](https://
 
 Je conçois des produits numériques de bout en bout : expérience utilisateur, composants front-end, logique métier, API, données, intégrations, mobile et infrastructure de production.
 
+### Stack // Visual
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://skill-icons-v2.vercel.app/api/icons?i=javascript,typescript,react,nextjs,tailwindcss,nodejs,prisma,mysql,mongodb,flutter,firebase,aws,docker,kubernetes,linux,cloudflare,vercel,githubactions&theme=dark&perline=9"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://skill-icons-v2.vercel.app/api/icons?i=javascript,typescript,react,nextjs,tailwindcss,nodejs,prisma,mysql,mongodb,flutter,firebase,aws,docker,kubernetes,linux,cloudflare,vercel,githubactions&theme=light&perline=9"
+    >
+    <img
+      src="https://skill-icons-v2.vercel.app/api/icons?i=javascript,typescript,react,nextjs,tailwindcss,nodejs,prisma,mysql,mongodb,flutter,firebase,aws,docker,kubernetes,linux,cloudflare,vercel,githubactions&theme=dark&perline=9"
+      width="100%"
+      alt="Main technology stack"
+    >
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://skill-icons-v2.vercel.app/api/icons?i=git,github,npm,bash,vscode,postman,debian&theme=dark&perline=7"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://skill-icons-v2.vercel.app/api/icons?i=git,github,npm,bash,vscode,postman,debian&theme=light&perline=7"
+    >
+    <img
+      src="https://skill-icons-v2.vercel.app/api/icons?i=git,github,npm,bash,vscode,postman,debian&theme=dark&perline=7"
+      width="72%"
+      alt="Development tooling"
+    >
+  </picture>
+</p>
+
+<details>
+<summary><strong>Voir la stack complète</strong></summary>
+
+<br>
+
 **Product & Frontend**  
 `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Radix UI` `Responsive UI` `Accessibility`
 
@@ -46,6 +89,8 @@ Je conçois des produits numériques de bout en bout : expérience utilisateur, 
 
 **Integrations & AI**  
 `Stripe` `Discord.js` `Amazon APIs` `WooCommerce` `LLM APIs` `Generative AI` `Automation`
+
+</details>
 
 <br>
 
