@@ -29,66 +29,109 @@ Building production-grade digital products at **[SKOLEOM PLATFORM INC.](https://
 
 Je conçois des produits numériques de bout en bout : expérience utilisateur, composants front-end, logique métier, API, données, intégrations, mobile et infrastructure de production.
 
-### Stack // Visual
+### Frontend & UI
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://skill-icons-v2.vercel.app/api/icons?i=javascript,typescript,react,nextjs,tailwindcss,nodejs,prisma,mysql,mongodb,flutter,firebase,aws,docker,kubernetes,linux,cloudflare,vercel,githubactions&theme=dark&perline=9"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://skill-icons-v2.vercel.app/api/icons?i=javascript,typescript,react,nextjs,tailwindcss,nodejs,prisma,mysql,mongodb,flutter,firebase,aws,docker,kubernetes,linux,cloudflare,vercel,githubactions&theme=light&perline=9"
-    >
-    <img
-      src="https://skill-icons-v2.vercel.app/api/icons?i=javascript,typescript,react,nextjs,tailwindcss,nodejs,prisma,mysql,mongodb,flutter,firebase,aws,docker,kubernetes,linux,cloudflare,vercel,githubactions&theme=dark&perline=9"
-      width="68%"
-      alt="Main technology stack"
-    >
+    <source media="(prefers-color-scheme: dark)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss,figma&theme=dark&perline=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss,figma&theme=light&perline=8">
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss,figma&theme=dark&perline=8" height="32" alt="Frontend technologies">
   </picture>
 </p>
 
+<p align="center"><sub>Radix UI · Base UI · Responsive Design · Accessibility · Design Systems · Performance</sub></p>
+
+### Backend & Data
+
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://skill-icons-v2.vercel.app/api/icons?i=git,github,npm,bash,vscode,postman,debian&theme=dark&perline=7"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://skill-icons-v2.vercel.app/api/icons?i=git,github,npm,bash,vscode,postman,debian&theme=light&perline=7"
-    >
-    <img
-      src="https://skill-icons-v2.vercel.app/api/icons?i=git,github,npm,bash,vscode,postman,debian&theme=dark&perline=7"
-      width="48%"
-      alt="Development tooling"
-    >
+    <source media="(prefers-color-scheme: dark)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=nodejs,prisma,mysql,mariadb,mongodb,api,swagger&theme=dark&perline=7">
+    <source media="(prefers-color-scheme: light)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=nodejs,prisma,mysql,mariadb,mongodb,api,swagger&theme=light&perline=7">
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=nodejs,prisma,mysql,mariadb,mongodb,api,swagger&theme=dark&perline=7" height="32" alt="Backend and data technologies">
   </picture>
 </p>
+
+<p align="center"><sub>REST APIs · Authentication · OAuth 2.0 · Webhooks · Business Logic · Prisma ORM</sub></p>
+
+### Mobile & Product Services
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=flutter,firebase,apple&theme=dark&perline=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=flutter,firebase,apple&theme=light&perline=3">
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=flutter,firebase,apple&theme=dark&perline=3" height="32" alt="Mobile technologies">
+  </picture>
+</p>
+
+<p align="center"><sub>Push Notifications · Apple Wallet · Google Wallet · Android / iOS delivery</sub></p>
+
+### Cloud & Infrastructure
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=aws,docker,kubernetes,debian,linux,cloudflare,vercel,githubactions&theme=dark&perline=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=aws,docker,kubernetes,debian,linux,cloudflare,vercel,githubactions&theme=light&perline=8">
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=aws,docker,kubernetes,debian,linux,cloudflare,vercel,githubactions&theme=dark&perline=8" height="32" alt="Cloud and infrastructure technologies">
+  </picture>
+</p>
+
+<p align="center"><sub>AWS EC2 · S3 · RDS · Lambda · K3s · Docker Compose · Traefik · Apache · VPS Linux · CI/CD</sub></p>
+
+### Tooling
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=git,github,npm,bash,vscode,postman&theme=dark&perline=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=git,github,npm,bash,vscode,postman&theme=light&perline=6">
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=git,github,npm,bash,vscode,postman&theme=dark&perline=6" height="32" alt="Development tooling">
+  </picture>
+</p>
+
+<p align="center"><sub>SSH · GitHub Actions · Automation · Monitoring · Production Operations</sub></p>
+
+### Integrations & AI
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=stripe,discordjs,chatgpt,claude,gemini,huggingface&theme=dark&perline=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://skill-icons-v2.vercel.app/api/icons?i=stripe,discordjs,chatgpt,claude,gemini,huggingface&theme=light&perline=6">
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=stripe,discordjs,chatgpt,claude,gemini,huggingface&theme=dark&perline=6" height="32" alt="Integrations and AI technologies">
+  </picture>
+</p>
+
+<p align="center"><sub>Stripe · Discord.js · Amazon APIs · WooCommerce · LLM APIs · Generative AI · Product Automation</sub></p>
 
 <details>
-<summary><strong>Voir la stack complète</strong></summary>
+<summary><strong>Full stack inventory</strong></summary>
 
 <br>
 
-**Product & Frontend**  
-`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Radix UI` `Responsive UI` `Accessibility`
+**Frontend & UI**  
+HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Radix UI · Base UI · Responsive Design · Accessibility · Design Systems · UI/UX · Figma · Performance Optimization
 
-**Backend & Data**  
-`Node.js` `Prisma` `REST APIs` `Authentication` `OAuth 2.0` `Webhooks` `MySQL` `MariaDB` `MongoDB`
+**Backend & APIs**  
+Node.js · Prisma · REST APIs · Authentication · OAuth 2.0 · Webhooks · Business Logic · External Integrations
+
+**Data**  
+MySQL · MariaDB · MongoDB · Prisma ORM
 
 **Mobile & Product Services**  
-`Flutter` `Firebase` `Push Notifications` `Apple Wallet` `Google Wallet`
+Flutter · Firebase · Push Notifications · Apple Wallet · Google Wallet · Android · iOS
 
-**Cloud & Infrastructure**  
-`AWS EC2` `AWS S3` `AWS RDS` `AWS Lambda` `Docker` `Kubernetes` `K3s` `Linux` `Debian` `Cloudflare` `Vercel`
+**Cloud**  
+AWS EC2 · AWS S3 · AWS RDS · AWS Lambda · Cloudflare · Vercel
 
-**DevOps & Reliability**  
-`GitHub Actions` `CI/CD` `Traefik` `Apache` `Bash` `SSH` `Monitoring`
+**Infrastructure & DevOps**  
+Docker · Docker Compose · Kubernetes · K3s · Debian · Linux · VPS Administration · Traefik · Apache · GitHub Actions · CI/CD · Monitoring · SSH · Bash
 
-**Integrations & AI**  
-`Stripe` `Discord.js` `Amazon APIs` `WooCommerce` `LLM APIs` `Generative AI` `Automation`
+**Tooling**  
+Git · GitHub · npm · VS Code · Postman
+
+**Integrations**  
+Stripe · Discord.js · Amazon APIs · WooCommerce · Apple Wallet · Google Wallet · Firebase
+
+**AI**  
+LLM APIs · Generative AI · ChatGPT / OpenAI ecosystem · Claude · Gemini · Hugging Face · Product Automation
 
 </details>
 
